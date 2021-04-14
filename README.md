@@ -1,10 +1,10 @@
-## 1. Author of this exercice 2
-- Mathieu Tardy
-- Jérémie Feron
-- Tom Huix
-- Benjamin Bonvalet
+# Aspect Based Sentiment Analysis
 
-## 2. Description of our algorithm
+## 1. Objective of the model
+
+We built a model that performs Aspect Based Sentiment Analysis. To put it simply, the model looks at customer reviews and extracts a category and sentiment (positive, negative & neutral). This is useful to determine the most important weaknesses of a product. It can be used to determine the priorities to fix in a development roadmap.
+
+## 2. Description of the algorithm
 
 
 Data preprocessing:
